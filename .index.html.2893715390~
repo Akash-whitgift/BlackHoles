@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+
+<script defer src="app.js"></script>
+  <title>Black Holes</title>
+  <link rel='stylesheet' href='style.css'>
+<script defer src='enhance.js'></script>
+  <script src='fake.js'></script>
+  <noscript>
+    <link rel='stylesheet' href='stylenoscript.css'>
+  </noscript>
+</head>
+
+<body>
+
+
+<section class='black'>
+<div class="hidden">
+
+  <h1>What is a Black Hole?</h1>
+<p >A black hole is an area in space in which matter is so dense that the gravitational force exerted by the matter is so high even light cannot escape. They are the the objects that have the most gravitational pull and they come in 2 forms, Spinning and non-spinning. Spinning black holes spin, these are usually many solar masses while non-spinning black holes can be 1 solar mass.</p>
+</div>
+  
+  <p>  <div class="custom-shape-divider-bottom-1687603820" >
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"> </path>
+    </svg>
+  </div>
+</section>
+<section class='orange'>
+    <div class="hidden right ">
+    <p><h1>Formation Of Black Holes</h1></p>
+    <p>The formation of black holes typically occur during a Kilonova (2 Neutron stars Collide) or a Supernova (implosion then explosion of a star). The matter in these objects heat up due to the increased thermal energy.</p>
+    <p > After a point the protons and electrons cannot heat up any further and therefore fuse to become neutrons. If the matter does not heat up any further after this formation to neutrons then the star is called a neutron star. But if the matter does reach the limit for the energy carried by a neutron star will turn into a black hole</p></div>
+ <div class="custom-shape-divider-bottom-1687604162">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+        <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+        <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+    </svg>
+</div>
+</section>
+<section class='blue'>
+<div class="hidden">
+    <p><h1 class='long-text'>Spaghettification</h1></p>
+    <p >Spaghettification is the stretching of an object vertically as it enters a black hole, it occurs quicker in black holes with smaller solar masses, such as 1 solar mass. This is caused by the rapid increase in gravity between the event horizon and singularity. After an object passes the event horizon all laws of physics break down, and therefore time is irregular and cannot be measured accurately.   </p></div>
+    <hr>
+    <div class="custom-shape-divider-bottom-1687605598">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+        <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+        <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+    </svg>
+</div>
+</section>
+<section class='black'>
+    <div class="hidden right">
+    <p><h1>What happens if you fall into a black hole?</h1></p>
+<p>From the research that we have done we have completed. We have found that if you falled into a black hole you would certainly die. Although the time taken for this would vary depending on the type of black hole. For large black holes such as Saggitarius A* (4.154 million solar masses) it would take around 16 seconds for you to die after you crossed the event horizon due to the increased distance from the ringularity (as it is a spinning black hole). Although on a black hole with 1 solar mass you would die almost instantly due to the short distance required for you to travel between the event horizon and the singularity </p>
+    </div>
+   <div class="custom-shape-divider-bottom-1687608237">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+        <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+        <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+    </svg>
+</div>
+</section>
+  <section class='green'>
+    <div class='hidden'>
+    <p><h1 class='ringularity'><span>Singularity</span></h1></p>
+    <p>A singularity is the point in a non-spinning black hole in which all matter is compressed to. It is infinitely small and has an infinitely small surface area.</p>
+    <p>A ringularity is the point in a spinning black hole in which all matter is compressed to. It is very similar to the singularity but is a ring due to how the black hole spins</p>
+    </div>
+    <div class="custom-shape-divider-bottom-1687608472">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+        <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+        <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+    </svg>
+</div>
+</section>
+<section class='red'>
+    <div class='hidden right'>
+      <p><h1>Key formulae</h1></p>
+      <p>One Key formula is the Event Horizon equation, which identifies where the event horizon is. It is derived from the schwarzschild solution and is  R = 2GM/c^2. In the equation 'R' represents The event horizon radius 'G' is the Gravitational constant and 'c' is the speed of light.</p>
+    </div>
+    <p class='hidden-text'>How did you find this?</p>
+  <div class='hidden right'
+  <p><h1>Diagram</h1></p>
+  <p><img src='Picture 1.jpg'alt='Black Hole Diagram' preserveAspectRation='current' class='hoverall hideformobile'   ><img class="hoverall" src='realBlackHole.jpg' alt='Real Black Hole'></p>
+  <p class='hideformobile'><span class='hideformobile'>On the left there is a diagram of a spinning black hole.</span></p><p><span class='hideformobile'> On the right there is a real photo of a black hole</span></p><p class='showformobile'><span class='showformobile'>Above there is a photo of Messier 87* (real black hole)</span></p>
+  <p class="hidden-text">Well you accessed inspect element</p></div>
+    <div class="custom-shape-divider-bottom-1687608919">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+        <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+        <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+    </svg>
+</div>
+</section>
+<section class='black'>
+    <div class='hidden right'>
+      <p><h1>Sources</h1></p>
+      <div id='text'>
+        <div class='line'><p><a class="word fancy" target="_blank"  id='channel-link' href='https://chat.openai.com/?model=text-davinci-002-render-sha-mobile'>ChatGPT</a></p></div>
+        <div class='line'><p><a class="word fancy" target="_blank"  id='channel-link' href='https://www.google.com/search?client=safari&rls=en&q=what+is+the+singularity+of+a+black+hole&ie=UTF-8&oe=UTF-8'>Google</a></p></div>  
+        <div class='line'><p><a class='word fancy' target="_blank" id='channel-link' href='https://www.livemint.com/science/news/scientists-unveil-first-image-ever-made-of-a-black-hole-1554902407010.html'>LiveMint</a></p></div>
+        <div class='line'><p><a class="word fancy" target="_blank" id='channel-link' href='https://www.bbcearth.com/news/what-would-happen-if-you-fell-into-a-black-hole#'>BBC</a></p></div>
+        <div class='line'><p><a class='word fancy' target="_blank" id='channel-link' href='https://en.wikipedia.org/wiki/Event_Horizon_Telescope'>Wikipedia</a></p></div>
+      </div>
+      <p>Website developed by Arjun with research from Rahul and Zayd</p>
+    </div>
+</section>
+</body>
+
+</html>
